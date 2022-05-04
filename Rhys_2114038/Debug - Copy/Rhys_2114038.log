@@ -1,0 +1,9 @@
+﻿  Array Operations.cpp
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(30,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(63,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(78,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(136,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(158,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(181,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Rhys_2114038\Rhys_2114038\Array Operations.cpp(203,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Rhys_2114038.vcxproj -> E:\Rhys_2114038\Debug\Rhys_2114038.exe
